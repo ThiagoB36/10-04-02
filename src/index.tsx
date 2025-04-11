@@ -29,7 +29,8 @@
         (...args: any) => <Elements.Screen3 pass={{
           pathScreen:"home",
 
-          styles:[`{ backgroundColor: 'green',
+          styles:[`{
+backgroundColor: 'green',
 flex:1
 }`],
 
