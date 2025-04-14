@@ -30,7 +30,7 @@
           pathScreen:"home",
 
           styles:[`{
-backgroundColor: 'blue',
+backgroundColor: 'green',
 flex:1
 }`],
 
