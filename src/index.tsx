@@ -59,7 +59,8 @@ alignItems:'center'
 
           arrStyles: [
             `{
-color:'white'}`
+color: 'red',
+}`
           ],
 
           children: [
