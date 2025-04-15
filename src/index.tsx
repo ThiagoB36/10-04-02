@@ -41,7 +41,7 @@ alignItems:'center'
           (...args:any) => <Elements.DynView pass={{
             elementsProperties:['{}'],
 
-            styles:[`{ width: 150, height: 50, backgroundColor: "blue" }`],
+            styles:[`{ width: 150, height: 50, backgroundColor: "blue", alignItems:'center' }`],
 
             functions:[async (...args) =>
  functions.funcGroup({ args, pass:{
