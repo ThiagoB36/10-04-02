@@ -32,7 +32,8 @@
           styles:[`{
 backgroundColor: 'yellow',
 flex:1,
-justifyContent:'center'
+justifyContent:'center',
+alignItems:'center'
 }`],
 
           screenElements:[
