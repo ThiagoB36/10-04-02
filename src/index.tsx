@@ -58,7 +58,7 @@ alignItems:'center'
           ],
 
           arrStyles: [
-            ``
+            `{fontSize: 25}`
           ],
 
           children: [
