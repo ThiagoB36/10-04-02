@@ -19,7 +19,7 @@
           import { tools } from './tools';
 
           // ---------- set Caps Inputs
-          const currRoute = 'home';
+          const currRoute = 'home2';
 
           let args: any = [];
 
@@ -82,15 +82,12 @@ alignItems:'center'
         (...args: any) => <Elements.Screen3 pass={{
           pathScreen:"home2",
 
-          styles:[
-              {
-                backgroundColor: '#101',
-                justifyContent: 'center',
-                alignItems: 'center',
-                height: '100%',
-                width: '100%',
-              }
-              ],
+          styles:[`{
+backgroundColor: 'blue',
+flex:1,
+justifyContent:'center',
+alignItems:'center'
+}`],
 
           screenElements:[() => {
                   const textStyle = {
