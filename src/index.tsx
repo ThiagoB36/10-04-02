@@ -93,7 +93,7 @@ alignItems:'center'
 'lst2': [{name: "Tarefa 1", date: "21/03/25"},{name: "Tarefa 2", date: "21/03/25"},{name: "Tarefa 3", date: "24/03/25"}], 'lst3': [{name: "Task 1"},{name: "Task 2"}] } 
 , 
 'name': "Name:", 
-'dataToSet': {name: "Carlos", phone: "1111"}, 'newValue': "Teste 01" } 
+'dataToSet': {name: "Carlos", phone: "1111"}, 'newValue': "30-05-2025" } 
  
 } 
  );
